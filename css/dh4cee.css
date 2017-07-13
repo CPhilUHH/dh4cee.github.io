@@ -230,7 +230,7 @@ li {
     /*law17:  color matches color from the logo */
   /*  background: linear-gradient(rgba(255,215,0, 1), rgba(255,215,0, 1));
     background: linear-gradient(rgba(255,215,0, 1), rgba(255,215,0, 1));*/
-     background-color: #4444;
+     background-color: #000000;;
     xborder-top: 4px solid #999;
     border-top: 2px solid #fff ; /*rgba(255,215,0, 1);*/
     border-bottom: 4px solid #fff;
@@ -247,7 +247,7 @@ li {
     font-size: 18px;
     font-weight: bold;
     line-height: 18px;
-    color: #000000; /* #fff;*/
+    color: #000000; 
     font-style: normal;
     padding-left: 10px;
 }
