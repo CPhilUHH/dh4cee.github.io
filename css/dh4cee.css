@@ -6,8 +6,8 @@ body {
 }
 
 body, p {
-    xfont-family: Roboto, Helvetica, Arial, sans-serif; /* screws up on non-asci letters */
-    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;    /*"Times New Roman", Times, serif;*/
+    xfont-family: Helvetica, Arial, sans-serif; /* screws up on non-asci letters */
+    font-family: Calibri, Candara, Segoe, Optima, Arial, sans-serif;    /*"Times New Roman", Times, serif;*/
 }
 
 table, th, td, img {
@@ -36,7 +36,7 @@ table, th, td, img {
 
 #header .title {
     min-width: 1000px;  /* needed to avoid nasty overlapping lines */
-    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 48px;
     font-weight: bold;
     padding-left: 40px;
@@ -44,7 +44,7 @@ table, th, td, img {
 }
 
 #header .body {
-    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 28px;
     padding-left: 40px;
     padding-bottom: 0px;
@@ -79,7 +79,7 @@ table, th, td, img {
 }
 
 #navigation li {
-    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     float: left;
     padding-right: 30px;
     text-align: center;
